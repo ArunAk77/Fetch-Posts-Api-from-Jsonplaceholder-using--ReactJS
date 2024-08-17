@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fetching-the-data-from-free-API-ReactJS-Hooks-useEffect-/static/css/main.2dd172d3.css",
+    "main.js": "/Fetching-the-data-from-free-API-ReactJS-Hooks-useEffect-/static/js/main.be5d3075.js",
+    "index.html": "/Fetching-the-data-from-free-API-ReactJS-Hooks-useEffect-/index.html",
+    "main.2dd172d3.css.map": "/Fetching-the-data-from-free-API-ReactJS-Hooks-useEffect-/static/css/main.2dd172d3.css.map",
+    "main.be5d3075.js.map": "/Fetching-the-data-from-free-API-ReactJS-Hooks-useEffect-/static/js/main.be5d3075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd172d3.css",
+    "static/js/main.be5d3075.js"
+  ]
+}
