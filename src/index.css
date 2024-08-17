@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 5px;
+  /* background: linear-gradient(160deg, blue, white,skyblue,yellow ); */
+  background: linear-gradient(130deg, violet,indigo,Blue,green,yellow,orange,red );
+  margin: 0px;
+  padding: 10px;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+::-webkit-scrollbar {
+  width: 3.5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #464b50;
+}
+button{
+  background-color: #000000;
+  color: white;
+  scale: 0.9;
+  transition: all 0.5s;
+  margin: 4px;
+  border-radius: 5px;
+}
+button:hover{
+  scale: 1;
+  transition: all 0.5s;
+  color: red;
+  box-shadow: -5px 8px 8px white;
+}
